@@ -4,15 +4,15 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Location-Bangalore-0A0F08?style=for-the-badge&logo=googlemaps&logoColor=39FF14&labelColor=060D08" />
-<img src="https://img.shields.io/badge/Training-Besant%20Technologies-0A0F08?style=for-the-badge&logo=googleclassroom&logoColor=39FF14&labelColor=060D08" />
-<img src="https://komarev.com/ghpvc/?username=KISHORE-2605&label=Profile%20Views&color=39FF14&style=for-the-badge&labelColor=060D08" />
+<img src="https://img.shields.io/badge/Location-Bangalore-0A0E27?style=for-the-badge&logo=googlemaps&logoColor=00D9FF&labelColor=131740" />
+<img src="https://img.shields.io/badge/Training-Besant%20Technologies-0A0E27?style=for-the-badge&logo=googleclassroom&logoColor=00D9FF&labelColor=131740" />
+<img src="https://komarev.com/ghpvc/?username=KISHORE-2605&label=Profile%20Views&color=00D9FF&style=for-the-badge&labelColor=131740" />
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/kishore-g005"><img src="https://img.shields.io/badge/LinkedIn-39FF14?style=for-the-badge&logo=linkedin&logoColor=0A0F08&labelColor=060D08" /></a>
-<a href="mailto:kishoreganesan2005@gmail.com"><img src="https://img.shields.io/badge/Email-39FF14?style=for-the-badge&logo=gmail&logoColor=0A0F08&labelColor=060D08" /></a>
-<a href="https://github.com/KISHORE-2605"><img src="https://img.shields.io/badge/GitHub-39FF14?style=for-the-badge&logo=github&logoColor=0A0F08&labelColor=060D08" /></a>
+<a href="https://www.linkedin.com/in/kishore-g005"><img src="https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=0A0E27&labelColor=131740" /></a>
+<a href="mailto:kishoreganesan2005@gmail.com"><img src="https://img.shields.io/badge/Email-00D9FF?style=for-the-badge&logo=gmail&logoColor=0A0E27&labelColor=131740" /></a>
+<a href="https://github.com/KISHORE-2605"><img src="https://img.shields.io/badge/GitHub-00D9FF?style=for-the-badge&logo=github&logoColor=0A0E27&labelColor=131740" /></a>
 
 </div>
 
@@ -154,18 +154,18 @@ Hands-on training in Cloud, Linux, and Networking fundamentals — building towa
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KISHORE-2605&show_icons=true&hide_border=true&title_color=39FF14&icon_color=8AFF57&text_color=E8F5E1&bg_color=0A0F08" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=KISHORE-2605&show_icons=true&hide_border=true&title_color=00D9FF&icon_color=7B61FF&text_color=E0E7FF&bg_color=0A0E27" />
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=KISHORE-2605&hide_border=true&background=0A0F08&stroke=39FF14&ring=8AFF57&fire=39FF14&currStreakLabel=39FF14" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=KISHORE-2605&hide_border=true&background=0A0E27&stroke=00D9FF&ring=7B61FF&fire=00D9FF&currStreakLabel=00D9FF" />
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KISHORE-2605&bg_color=0A0F08&color=39FF14&line=39FF14&point=8AFF57&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KISHORE-2605&bg_color=0A0E27&color=00D9FF&line=00D9FF&point=7B61FF&area=true&hide_border=true" width="100%" />
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=KISHORE-2605&theme=matrix&no-frame=true&column=7&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=KISHORE-2605&theme=algolia&no-frame=true&column=7&margin-w=8" />
 </div>
 
 <br/>
@@ -204,8 +204,8 @@ open_to:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/kishore-g005"><img src="https://img.shields.io/badge/LinkedIn-39FF14?style=for-the-badge&logo=linkedin&logoColor=0A0F08&labelColor=060D08" /></a>
-<a href="mailto:kishoreganesan2005@gmail.com"><img src="https://img.shields.io/badge/Email-39FF14?style=for-the-badge&logo=gmail&logoColor=0A0F08&labelColor=060D08" /></a>
+<a href="https://www.linkedin.com/in/kishore-g005"><img src="https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=0A0E27&labelColor=131740" /></a>
+<a href="mailto:kishoreganesan2005@gmail.com"><img src="https://img.shields.io/badge/Email-00D9FF?style=for-the-badge&logo=gmail&logoColor=0A0E27&labelColor=131740" /></a>
 
 <br/><br/>
 
