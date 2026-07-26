@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0F08&fontColor=39FF14&text=Kishore%20G&fontSize=42&desc=Cloud%20%26%20DevOps%20Enthusiast&descColor=8AFF57&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0F08&fontColor=39FF14&text=Kishore%20G&fontSize=42&desc=Cloud%20%26%20DevOps%20Enthusiast&descColor=8AFF57&animation=fadeIn&v=2" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+Cloud+%26+DevOps+Enthusiast;%24+skills+%E2%86%92+AWS+%7C+Linux+%7C+Networking+%7C+Jenkins;%24+focus+%E2%86%92+Learning+CI%2FCD+%26+Automation;%24+cat+open-to.txt+%E2%86%92+Entry-Level+Cloud%2FDevOps+Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=820&height=40&lines=%24+whoami+%E2%86%92+Cloud+%26+DevOps+Enthusiast;%24+skills+%E2%86%92+AWS+%7C+Linux+%7C+Networking+%7C+Jenkins;%24+focus+%E2%86%92+Learning+CI%2FCD+%26+Automation;%24+cat+open-to.txt+%E2%86%92+Entry-Level+Cloud%2FDevOps+Roles" />
 
 <br/><br/>
 
@@ -24,7 +24,7 @@
 
 ## `> whoami`
 
-<img align="right" width="160" src="https://raw.githubusercontent.com/KISHORE-2605/KISHORE-2605/main/profile.png" style="border-radius:50%;" />
+<img align="right" width="150" height="150" style="object-fit:cover;border-radius:50%;" src="https://raw.githubusercontent.com/KISHORE-2605/KISHORE-2605/main/profile.png" />
 
 I'm a Cloud & DevOps enthusiast building hands-on foundations in networking, Linux administration, and cloud infrastructure — currently sharpening CI/CD and automation skills to move into an entry-level Cloud Support / DevOps Engineer role.
 
