@@ -4,18 +4,9 @@
 
 <br/><br/>
 
-```bash
-$ whoami   → Cloud & DevOps Enthusiast
-$ skills   → AWS | Linux | Networking | Jenkins
-$ focus    → Learning CI/CD & Automation
-$ open_to  → Entry-Level Cloud/DevOps Roles
-```
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Location-Bangalore-0A0F08?style=flat-square&logo=googlemaps&logoColor=39FF14&labelColor=060D08" />
-<img src="https://img.shields.io/badge/Training-Besant%20Technologies-0A0F08?style=flat-square&logo=googleclassroom&logoColor=39FF14&labelColor=060D08" />
-<img src="https://komarev.com/ghpvc/?username=KISHORE-2605&label=Profile%20Views&color=39FF14&style=flat-square" />
+<img src="https://img.shields.io/badge/Location-Bangalore-0A0F08?style=for-the-badge&logo=googlemaps&logoColor=39FF14&labelColor=060D08" />
+<img src="https://img.shields.io/badge/Training-Besant%20Technologies-0A0F08?style=for-the-badge&logo=googleclassroom&logoColor=39FF14&labelColor=060D08" />
+<img src="https://komarev.com/ghpvc/?username=KISHORE-2605&label=Profile%20Views&color=39FF14&style=for-the-badge&labelColor=060D08" />
 
 <br/><br/>
 
@@ -25,11 +16,12 @@ $ open_to  → Entry-Level Cloud/DevOps Roles
 
 </div>
 
+
 <br/>
 
 ## `> whoami`
 
-<img align="right" width="150" height="150" style="object-fit:cover;border-radius:50%;" src="https://raw.githubusercontent.com/KISHORE-2605/KISHORE-2605/main/profile.png" />
+<img align="right" width="150" height="150" src="https://raw.githubusercontent.com/KISHORE-2605/KISHORE-2605/main/profile_circle.png" />
 
 I'm a Cloud & DevOps enthusiast building hands-on foundations in networking, Linux administration, and cloud infrastructure — currently sharpening CI/CD and automation skills to move into an entry-level Cloud Support / DevOps Engineer role.
 
@@ -217,7 +209,7 @@ open_to:
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0F08&fontColor=39FF14&height=100&section=footer" />
+<img width="100%" src="https://raw.githubusercontent.com/KISHORE-2605/KISHORE-2605/main/footer.svg" />
 
 </div>
 
@@ -256,4 +248,3 @@ SNAKE ANIMATION SETUP (one-time, ~5 min):
    snake SVG on an "output" branch. The image in this README will then
    render live and update every 6 hours.
 -->
-
