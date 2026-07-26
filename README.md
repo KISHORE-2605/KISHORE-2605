@@ -10,6 +10,7 @@
 
 <img src="https://img.shields.io/badge/Location-Bangalore-0A0F08?style=flat-square&logo=googlemaps&logoColor=39FF14&labelColor=060D08" />
 <img src="https://img.shields.io/badge/Training-Besant%20Technologies-0A0F08?style=flat-square&logo=googleclassroom&logoColor=39FF14&labelColor=060D08" />
+<img src="https://komarev.com/ghpvc/?username=KISHORE-2605&label=Profile%20Views&color=39FF14&style=flat-square" />
 
 <br/><br/>
 
@@ -130,6 +131,18 @@ Wireless network project implementing a WLAN using a wireless router and access 
 
 <br/>
 
+## `> cat highlights.md`
+
+<div align="center">
+
+| 🏗️ Projects Built | 🌐 Domains Covered | ⚡ Currently Learning |
+| :--: | :--: | :--: |
+| 5 hands-on labs | Cloud &middot; Linux &middot; Networking &middot; Security | CI/CD &amp; Automation |
+
+</div>
+
+<br/>
+
 ## `> cat training.log`
 
 **Besant Technologies** — Bangalore
@@ -155,6 +168,16 @@ Hands-on training in Cloud, Linux, and Networking fundamentals — building towa
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=KISHORE-2605&theme=matrix&no-frame=true&column=7&margin-w=8" />
 </div>
+
+<br/>
+
+## `> ./contribution-snake.sh`
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/KISHORE-2605/KISHORE-2605/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
+
+> ⚠️ This needs a one-time 5-minute setup — see the note at the bottom of this message.
 
 <br/>
 
@@ -190,3 +213,39 @@ open_to:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0F08&fontColor=39FF14&height=100&section=footer" />
 
 </div>
+
+<!--
+SNAKE ANIMATION SETUP (one-time, ~5 min):
+1. In your KISHORE-2605/KISHORE-2605 repo, create the file:
+   .github/workflows/snake.yml
+2. Paste this into it:
+
+   name: generate snake animation
+   on:
+     schedule:
+       - cron: "0 */6 * * *"
+     workflow_dispatch: {}
+     push:
+       branches: [ "main" ]
+   jobs:
+     generate:
+       permissions:
+         contents: write
+       runs-on: ubuntu-latest
+       steps:
+         - uses: Platane/snk/svg-only@v3
+           with:
+             github_user_name: KISHORE-2605
+             outputs: |
+               dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+         - uses: crazy-max/ghaction-github-pages@v4
+           with:
+             target_branch: output
+             build_dir: dist
+           env:
+             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+3. Commit it. GitHub Actions will run automatically and generate the
+   snake SVG on an "output" branch. The image in this README will then
+   render live and update every 6 hours.
+-->
