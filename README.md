@@ -25,7 +25,7 @@
 
 ## `> whoami`
 
-<img align="right" width="150" height="150" src="https://raw.githubusercontent.com/KISHORE-2605/KISHORE-2605/main/profile_circle.png" />
+<img align="right" width="170" height="170" src="https://raw.githubusercontent.com/KISHORE-2605/KISHORE-2605/main/profile_circle_ring.png" />
 
 I'm a Cloud & DevOps enthusiast building hands-on foundations in networking, Linux administration, and cloud infrastructure — currently sharpening CI/CD and automation skills to move into an entry-level Cloud Support / DevOps Engineer role.
 
