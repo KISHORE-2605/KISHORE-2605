@@ -1,10 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0F08&fontColor=39FF14&text=Kishore%20G&fontSize=42&desc=Cloud%20%26%20DevOps%20Enthusiast&descColor=8AFF57&animation=fadeIn&v=2" />
+<img width="100%" src="https://raw.githubusercontent.com/KISHORE-2605/KISHORE-2605/main/banner.svg" />
 
-<br/>
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=820&height=40&lines=%24+whoami+%E2%86%92+Cloud+%26+DevOps+Enthusiast;%24+skills+%E2%86%92+AWS+%7C+Linux+%7C+Networking+%7C+Jenkins;%24+focus+%E2%86%92+Learning+CI%2FCD+%26+Automation;%24+cat+open-to.txt+%E2%86%92+Entry-Level+Cloud%2FDevOps+Roles" />
+```bash
+$ whoami   → Cloud & DevOps Enthusiast
+$ skills   → AWS | Linux | Networking | Jenkins
+$ focus    → Learning CI/CD & Automation
+$ open_to  → Entry-Level Cloud/DevOps Roles
+```
 
 <br/><br/>
 
