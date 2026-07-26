@@ -4,6 +4,10 @@
 
 <br/><br/>
 
+<img src="https://raw.githubusercontent.com/KISHORE-2605/KISHORE-2605/main/typing_bar.svg" alt="typing animation" />
+
+<br/><br/>
+
 <img src="https://img.shields.io/badge/Location-Bangalore-0A0E27?style=for-the-badge&logo=googlemaps&logoColor=00D9FF&labelColor=131740" />
 <img src="https://img.shields.io/badge/Training-Besant%20Technologies-0A0E27?style=for-the-badge&logo=googleclassroom&logoColor=00D9FF&labelColor=131740" />
 <img src="https://komarev.com/ghpvc/?username=KISHORE-2605&label=Profile%20Views&color=00D9FF&style=for-the-badge&labelColor=131740" />
@@ -128,6 +132,71 @@ Wireless network project implementing a WLAN using a wireless router and access 
 
 </details>
 
+<details>
+<summary><b>&#9654; Multi-Tier Web App on AWS</b></summary>
+<br/>
+
+<i>Add a 1-2 sentence description here of what this project does and how you built it.</i>
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | AWS &middot; _(fill in your services: EC2, RDS, VPC, etc.)_ |
+| **Repo** | [View](https://github.com/KISHORE-2605/Multi-Tier-Web-App-on-AWS) |
+
+</details>
+
+<details>
+<summary><b>&#9654; Cloud-Native Highly Available App</b></summary>
+<br/>
+
+<i>Add a 1-2 sentence description here of what this project does and how you built it.</i>
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | _(fill in your stack)_ |
+| **Repo** | [View](https://github.com/KISHORE-2605/Cloud-Native-Highly-Available-App) |
+
+</details>
+
+<details>
+<summary><b>&#9654; AWS End-to-End WordPress on RDS</b></summary>
+<br/>
+
+<i>Add a 1-2 sentence description here of what this project does and how you built it.</i>
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | AWS &middot; WordPress &middot; RDS |
+| **Repo** | [View](https://github.com/KISHORE-2605/AWS-End-to-End-Wordpress-RDS) |
+
+</details>
+
+<details>
+<summary><b>&#9654; Linux Server Monitoring & Alerting</b></summary>
+<br/>
+
+<i>Add a 1-2 sentence description here of what this project does and how you built it.</i>
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | Linux &middot; Shell |
+| **Repo** | [View](https://github.com/KISHORE-2605/Linux-Server-Monitoring-Alerting) |
+
+</details>
+
+<details>
+<summary><b>&#9654; Python Programs</b></summary>
+<br/>
+
+<i>Add a 1-2 sentence description here — a short collection description works fine.</i>
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | Python |
+| **Repo** | [View](https://github.com/KISHORE-2605/python-programs) |
+
+</details>
+
 <br/>
 
 ## `> cat highlights.md`
@@ -136,7 +205,7 @@ Wireless network project implementing a WLAN using a wireless router and access 
 
 | 🏗️ Projects Built | 🌐 Domains Covered | ⚡ Currently Learning |
 | :--: | :--: | :--: |
-| 5 hands-on labs | Cloud &middot; Linux &middot; Networking &middot; Security | CI/CD &amp; Automation |
+| 10 hands-on projects | Cloud &middot; Linux &middot; Networking &middot; Security &middot; Python | CI/CD &amp; Automation |
 
 </div>
 
