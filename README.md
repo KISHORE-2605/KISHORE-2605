@@ -24,6 +24,8 @@
 
 ## `> whoami`
 
+<img align="right" width="160" src="https://raw.githubusercontent.com/KISHORE-2605/KISHORE-2605/main/profile.png" style="border-radius:50%;" />
+
 I'm a Cloud & DevOps enthusiast building hands-on foundations in networking, Linux administration, and cloud infrastructure — currently sharpening CI/CD and automation skills to move into an entry-level Cloud Support / DevOps Engineer role.
 
 ```bash
@@ -249,3 +251,4 @@ SNAKE ANIMATION SETUP (one-time, ~5 min):
    snake SVG on an "output" branch. The image in this README will then
    render live and update every 6 hours.
 -->
+
