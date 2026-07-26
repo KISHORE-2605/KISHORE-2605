@@ -1,0 +1,18 @@
+<svg width="1200" height="110" viewBox="0 0 1200 110" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#12163A"/>
+      <stop offset="100%" stop-color="#0A0E27"/>
+    </linearGradient>
+  </defs>
+
+  <polygon fill="url(#bg2)" points="
+    0,0 40,20 80,-5 120,25 160,-2 200,22 240,-4 280,24
+    320,-1 360,21 400,-3 440,23 480,0 520,20 560,-5 600,25
+    640,-2 680,22 720,-4 760,24 800,-1 840,21 880,-3 920,23
+    960,0 1000,20 1040,-5 1080,25 1120,-2 1160,22 1200,0 1200,110 0,110
+  "/>
+
+  <text x="600" y="80" font-family="Fira Code, Consolas, monospace" font-size="18"
+        fill="#00D9FF" text-anchor="middle">Thanks for stopping by &#8594; let&#8217;s build something together</text>
+</svg>
