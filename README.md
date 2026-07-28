@@ -34,7 +34,7 @@ $ cat .profile
 
 ROLE     =  Aspiring Cloud / DevOps Engineer
 DOMAIN   =  Networking  |  Linux Administration  |  Cloud Infrastructure
-STACK    =  AWS  |  Linux  |  Jenkins  |  Cisco Packet Tracer
+STACK    =  AWS  |  Linux  |  Jenkins  |  Docker  |  Kubernetes  |  Ansible  |  MySQL  |  Python  |  Cisco Packet Tracer
 OPEN_TO  =  Entry-Level Cloud Support / DevOps Engineer roles
 ```
 
@@ -43,7 +43,7 @@ OPEN_TO  =  Entry-Level Cloud Support / DevOps Engineer roles
 ## `> ls /tech-stack`
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=aws,linux,jenkins,bash,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,linux,jenkins,docker,kubernetes,ansible,mysql,python,bash,git,github&theme=dark" />
 </div>
 
 <br/>
